@@ -2,7 +2,7 @@
 - **Business rules**: the rules that define how salary, performance, and promotions work at the company
 - **Feasibility analysis**: whether the new system is practical in cost, time, and technology
 - **Business process flow**: a diagram of how the system's processes work from start to finish
-- **ERDs**: diagrams of the database tables and how they connect
+- **finalERD.pdf**: diagrams of the database tables and how they connect
 - **System design specifications**: a detailed description of how the system is built and what it does
 - **Salary projections and actuals**: estimated salary costs compared with real figures
 - **Gantt chart**: the project timeline, with tasks and deadlines
